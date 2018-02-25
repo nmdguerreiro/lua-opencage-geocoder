@@ -1,5 +1,5 @@
 package = 'lua-opencage-geocoder'
-version = '0.1'
+version = '0.1-0'
 source = {
   url = "git://github.com/nmdguerreiro/lua-opencage-geocoder",
   branch = "master"
