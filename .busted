@@ -1,0 +1,7 @@
+return {
+	default = {
+		lpath = "./?.lua";
+		["auto-insulate"] = false;
+        helper = "spec/helper.lua"
+	};
+}
