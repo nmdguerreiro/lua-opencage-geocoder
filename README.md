@@ -1,7 +1,7 @@
 # lua-opencage-geocoder
 
 This Lua module provides a simple client for the OpenCage forward/reverse geocoding API.
-If you'd like to call the geocoding API from an OpenResty installation, check out the [sister library](https://github.com/nmdguerreiro/lua-resty-opencage-geocoder)
+If you'd like to call the geocoding API from an OpenResty installation, check out the [sister library](https://github.com/nmdguerreiro/lua-resty-opencage-geocoder).
 
 # Installation
 
@@ -85,7 +85,7 @@ This library depends on the following `luarocks` packages:
 * `net-url`
 * `busted` (for running tests locally)
 
-If you're running tests locally, you'll also need to install [docker](https://docker.com)
+If you're running tests locally, you'll also need to install [docker](https://docker.com).
 
 # Licence
 MIT
